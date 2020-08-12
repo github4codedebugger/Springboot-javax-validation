@@ -1,2 +1,2 @@
 ## Springboot-javax-validation
-## Custom Exception Handling in Springn=boot
+## Custom Exception Handling in Springboot
